@@ -142,4 +142,11 @@ Integrate explainability methods (e.g., SHAP) for applicant-level decisions.
 This project demonstrates how policy optimization for financial decision-making can be approached using both supervised deep learning and reinforcement learning, providing insights into accuracy vs. reward trade-offs.
 
 
+## 📄 Final Report
+Please see the attached `Final_Report.pdf` for detailed methodology, results, and answers to Task 4.
+
+## 📄 Resume
+My updated Resume/CV is attached in the git repo and submission email.
+
+
 
