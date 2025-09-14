@@ -12,7 +12,7 @@ This repository contains all steps (EDA, Deep Learning model, and Reinforcement 
 ### Option 1: Run in Google Colab (Recommended)
 1. Open the notebook in Google Colab by clicking the badge below:  
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/loan_prediction_project.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/balujaldu/shodh_AI_assignment_Policy-Optimization_Decision-Making/blob/main/Policy_Optimization_for_Financial_Decision_Making_.ipynb)
 
 2. Run all cells (`Runtime > Run all`).
 
