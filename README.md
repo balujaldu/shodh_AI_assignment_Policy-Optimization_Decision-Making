@@ -5,7 +5,7 @@
 This repository contains all steps (EDA, Deep Learning model, and Reinforcement Learning agent and evaluation matrix comparison) implemented in a single Jupyter Notebook using Google Colab.
 
 ##  Repository Content
-- `loan_prediction_project.ipynb` – Contains the complete workflow (EDA → DL model → RL agent)
+Policy_Optimization_for_Financial_Decision_Making_.ipynb – Contains the complete workflow (EDA → DL model → RL agent->evaluation matrix-> comparision->decision making )
 
 ##  Setup Instructions
 
